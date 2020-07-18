@@ -1,8 +1,15 @@
 Makefile
 bin
 build
-include
 lib
 sqlite
 examples/ca/CA.pl
 .vscode
+**/CMakeFiles/**
+CMakeCache.txt
+*.cmake
+*.a
+*.cbp
+/CMakeFiles/
+/.idea
+/src/apps/relay/main_relay_server
